@@ -4,6 +4,8 @@
 
 # Neural Network Simulation with Dann.js
 Demonstration of a Neural Network Simulation with Dann.js Framework.
+
+![NN Simulation](demo.gif)
 ## Documentation
 
 - https://dannjs.org/docs/classes/Dann

@@ -19,6 +19,7 @@
   "homepage": "https://github.com/kori2000/nn-simulation#readme",
   "dependencies": {
     "cli-progress": "^3.9.0",
+    "colors": "^1.4.0",
     "dannjs": "^2.2.11",
     "dotenv": "^10.0.0",
     "timer-node": "^5.0.5"
